@@ -1,0 +1,24 @@
+{
+    "name": "sergiohermes/dti-acl",
+    "description": "Módulo de ACL (Lista de Acesso e Permissões) para controle de usuário em ZF2 da Ftec | DTI",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "module",
+        "zf2",
+        "dti",
+		"acl"
+    ],
+    "homepage": "https://github.com/sergiohermes/DTIAcl",
+    "authors": [
+        {
+            "name": "Sérgio Ernane Munhós Hermes",
+            "email": "sergiohermes@ftec.com.br"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "DTIAcl": "src/"
+        }
+    }
+}
