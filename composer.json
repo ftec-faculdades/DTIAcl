@@ -1,5 +1,5 @@
 {
-    "name": "sergiohermes/dti-acl",
+    "name": "ftec-faculdades/dti-acl",
     "description": "Módulo de ACL (Lista de Acesso e Permissões) para controle de usuário em ZF2 da Ftec | DTI",
     "type": "library",
     "license": "MIT",
@@ -9,7 +9,7 @@
         "dti",
 		"acl"
     ],
-    "homepage": "https://github.com/sergiohermes/DTIAcl",
+    "homepage": "https://github.com/ftec-faculdades/DTIAcl",
     "authors": [
         {
             "name": "Sérgio Ernane Munhós Hermes",
